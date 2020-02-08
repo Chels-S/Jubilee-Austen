@@ -41,7 +41,7 @@ header h1 {
 
 nav {
   float: right;
-  padding: 75px 25px;
+  padding: 85px 15px 20px 15px;
 }
 
 nav ul li {
@@ -54,7 +54,8 @@ nav ul li a {
   font-variant: small-caps;
   font-size: 18px;
   color: #828282;
-  padding-left: 80px;
+  padding-left: 50px;
+
 }
 
 header h2 {
